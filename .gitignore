@@ -1,0 +1,7 @@
+build
+*.jpg
+CMakeFiles
+*.cmake
+CMakeCache.txt
+out
+Makefile
